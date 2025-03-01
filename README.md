@@ -18,7 +18,7 @@ optional arguments:
   -t T        Exchange URL
   
 Usage: 
-C:\>python3 proxyshell.py -t exchange.lab.local
+C:\>python proxyshell.py -t exchange.lab.local
 fqdn exchange.lab.local
 + admin@exchange.lab.local
 legacyDN /o=First Organization/ou=Exchange Administrative Group (FYDIBOHF23SPDLT)/cn=Recipients/cn=admin
